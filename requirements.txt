@@ -3,6 +3,7 @@ langchain
 langchain-google-genai
 langchain-community
 pinecone
+langchain_pinecone
 
 # CSV parsing, env handling
 pandas
