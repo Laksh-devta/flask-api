@@ -1,0 +1,17 @@
+# Vector DB & LLM integration
+langchain
+langchain-google-genai
+langchain-community
+pinecone
+
+# CSV parsing, env handling
+pandas
+python-dotenv
+
+# API and frontend
+flask
+streamlit
+requests
+
+# Progress bars, optional
+tqdm
