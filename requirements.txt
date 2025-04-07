@@ -15,3 +15,6 @@ requests
 
 # Progress bars, optional
 tqdm
+
+
+gunicorn
